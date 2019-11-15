@@ -1,0 +1,6 @@
+end_scroll 32692
+self._control.verticalScrollBar() 32687
+should scroll till the end
+end_scroll 13783
+self._control.verticalScrollBar() 13779
+should scroll till the end

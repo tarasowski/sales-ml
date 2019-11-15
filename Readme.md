@@ -1,1 +1,1 @@
-![precision](./.precision.png)
+![precision](./precision.png)
